@@ -2,7 +2,7 @@
 
 In this project a simulator provided by Udacity is used to collect data of a human driving behavior. This data contains images of three different cameras mounted on top of the vehicle, as well as the steering angle. A convolution neural network has been build, that receives the center image as input and predicts a steering angle to drive the car autonomously. 
 
-![]([https://github.com/Your_Repository_Name/Your_GIF_Name.gif](https://github.com/himanshu-cse/Self-Driving-Car/blob/main/behavioral%20cloning.gif))
+![](https://github.com/himanshu-cse/Self-Driving-Car/blob/main/behavioral%20cloning.gif)
 
 ## To get the model
 
