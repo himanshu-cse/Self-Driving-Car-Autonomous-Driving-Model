@@ -23,7 +23,7 @@ In this project a simulator provided by Udacity is used to collect data of a hum
 - keras
 
 ## For Autonommous Playing
-Start up the Udacity [](self-driving simulator), choose a scene and press the Autonomous Mode button. Then, run the model as follows:
+Start up the [Udacity self-driving simulator](https://github.com/udacity/self-driving-car-sim), choose a scene and press the Autonomous Mode button. Then, run the model as follows:
 ```
 Python3 drive.py model.h5
 ```
