@@ -4,7 +4,7 @@ In this project a simulator provided by Udacity is used to collect data of a hum
 
 ## To get the model
 
-Run SelfDrivingCar.ipynb on google colab or on local system. Create a dataset using training mode of [Udacity self-driving simulator](https://github.com/udacity/self-driving-car-sim) or download the [dataset on jungle track] https://drive.google.com/file/d/1B3S3mWeDm8zZlF5S7zCoBlyaCY3m2gHu/view?usp=drive_link) which we created. On colab upload this dataset and driving_log.csv file. At the end of all execution, you will get different models saved.
+Run SelfDrivingCar.ipynb on google colab or on local system. Create a dataset using training mode of [Udacity self-driving simulator](https://github.com/udacity/self-driving-car-sim) or download the [dataset on jungle track](https://drive.google.com/file/d/1B3S3mWeDm8zZlF5S7zCoBlyaCY3m2gHu/view?usp=drive_link) which we created. On colab upload this dataset and driving_log.csv file. At the end of all execution, you will get different models saved.
 
 ## Requirements
 - python
