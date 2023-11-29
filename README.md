@@ -33,16 +33,15 @@ Run following command for different models trained above.
 ```
 Python3 drive.py model.h5
 ```
-The above command will load the trained model and use the model to make predictions on individual images in real-time and send the predicted angle back to the server via a websocket connection.
-
+And the open udacity stimulator and run it in autonomous mode. The drive.py will load the trained model and use the model to make predictions on individual images in real-time and send the predicted angle back to the server via a websocket connection.
+<!---
 Saving a video of the autonomous agent
 ```
 python drive.py model.h5 run1
 ```
-
 The fourth argument, run1, is the directory in which to save the images seen by the agent. If the directory already exists, it'll be overwritten.
 
 The image file name is a timestamp of when the image was seen. This information is used by video.py to create a chronological video of the agent driving.
 
 Creates a video based on images found in the run1 directory. The name of the video will be the name of the directory followed by '.mp4', so, in this case the video will be run1.mp4.
-
+-->
