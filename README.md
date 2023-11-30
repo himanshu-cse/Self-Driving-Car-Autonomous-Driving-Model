@@ -33,7 +33,7 @@ Run following command for different models trained above.
 ```
 Python3 drive.py model.h5
 ```
-And the open udacity stimulator and run it in autonomous mode. The drive.py will load the trained model and use the model to make predictions on individual images in real-time and send the predicted angle back to the server via a websocket connection.
+And then open udacity stimulator and run it in autonomous mode. The drive.py will load the trained model and use the model to make predictions on individual images in real-time and send the predicted angle back to the server via a websocket connection.
 <!---
 Saving a video of the autonomous agent
 ```
