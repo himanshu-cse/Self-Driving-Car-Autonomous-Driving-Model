@@ -1,4 +1,4 @@
-# Self-Driving-Car
+# Self-Driving-Car(Autonomous Driving Model)
 
 In this project a simulator provided by Udacity is used to collect data of a human driving behavior. This data contains images of three different cameras mounted on top of the vehicle, as well as the steering angle. A convolution neural network has been build, that receives the center image as input and predicts a steering angle to drive the car autonomously. 
 
